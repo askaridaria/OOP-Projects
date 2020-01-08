@@ -1,2 +1,0 @@
-# OOP-Projects
-Proiecte OOP
